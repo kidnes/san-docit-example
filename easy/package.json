@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "> Minimalistic San-powered static site generator.",
+  "scripts": {
+    "start": "docit start --cwd=.",
+    "build": "docit build --cwd=."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "san-docit": "^1.0.3"
+  }
+}
